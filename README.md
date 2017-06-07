@@ -2,6 +2,9 @@
 
 > A Tic-Tac-Toe Program for TTP
 
+![alt text](https://raw.githubusercontent.com/jptomanelli/Tic-Tac-Toe/master/src/assets/example.png)
+
+
 ## Build Setup
 
 ``` bash
